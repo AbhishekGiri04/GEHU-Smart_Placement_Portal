@@ -1,0 +1,53 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Temporary folders
+tmp/
+temp/
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Local configuration files
+config.local.js
+config.local.json
+
+# Environment files
+.env
+.env.local
+
+# Cache directories
+.cache/
+
+# Sensitive data
+secrets/
+private/
+*.key
+*.pem
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# Keep docs folder and screenshots
+# docs/ - Keep this for screenshots
+# assets/ - Keep this for project assets
