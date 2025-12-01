@@ -176,7 +176,7 @@ GEHU-Smart_Placement_Portal/
 
 ### 🚀 Netlify Deployment
 
-**Live URL:** [https://gehu-aspire-placement-portal.netlify.app](https://gehu-aspire-placement-portal.netlify.app)
+**Live URL:** [https://gehu-placement-portal.netlify.app](https://gehu-placement-portal.netlify.app)
 
 ### 📦 Deploy on Netlify
 
