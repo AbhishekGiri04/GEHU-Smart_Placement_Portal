@@ -172,6 +172,35 @@ GEHU-Smart_Placement_Portal/
 
 ---
 
+## 🌐 Live Demo
+
+### 🚀 Netlify Deployment
+
+**Live URL:** [https://gehu-aspire-placement-portal.netlify.app](https://gehu-aspire-placement-portal.netlify.app)
+
+### 📦 Deploy on Netlify
+
+1. **GitHub Integration:**
+   ```bash
+   # Connect your GitHub account to Netlify
+   # Select GEHU-Smart_Placement_Portal repository
+   # Deploy settings:
+   Build command: (leave empty)
+   Publish directory: .
+   ```
+
+2. **Manual Deploy:**
+   - Download project as ZIP
+   - Drag & drop to Netlify dashboard
+   - Instant deployment
+
+3. **One-Click Deploy:**
+   [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/abhishekgiri04/GEHU-Smart_Placement_Portal)
+
+<br>
+
+---
+
 ## 📖 Core Components
 
 * **Student Dashboard** — Profile management, application tracking, and placement analytics
